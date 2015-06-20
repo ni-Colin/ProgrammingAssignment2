@@ -35,4 +35,4 @@ cacheSolve <- function(x, ...) {
   inv <- solve(tempData)
   X$setinverse(inv)
   inv
-  }
+}
